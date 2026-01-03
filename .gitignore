@@ -18,5 +18,5 @@ Thumbs.db
 # Game data
 *.save
 *.sav
-game_data.json
+game_data.json 
 high_scores.txt
